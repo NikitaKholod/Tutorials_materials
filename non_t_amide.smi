@@ -1,0 +1,10 @@
+Cc1nc2ccc(cc2n1c1ncnc(n1)N)C#CC1(CCCCC1)O	1397_4o0x_orig
+c1(c2cc(c([C@]3(C)CS(=O)(=O)N(C(=[NH2+])N3)C)s2)Cl)cc(C#CC)cnc1	1683_5htz_pH7
+N(=C\1/N([C@@H]([C@H](O)[C@@H](O)[C@H](N1Cc1ccc(cc1)CO)Cc1ccccc1)Cc1ccccc1)Cc1ccc(cc1)CO)/C#N	2457_1hvh_orig
+CCNc1nc2ccc(cc2n1c1ncnc(n1)N)C#CC(C)(C)O	3656_4o0y_orig
+c1(c2cc(c([C@]3(C)CS(=O)(=O)N(C(=N)N3)C)s2)Cl)cc(C#CC)cnc1	3947_5htz_non-chg
+[NH+](=C\1/N([C@@H]([C@H](O)[C@@H](O)[C@H](N1Cc1ccc(cc1)CO)Cc1ccccc1)Cc1ccccc1)Cc1ccc(cc1)CO)/C#N	4784_1hvh_pH7
+NC(=[NH2+])N1C[C@H](CCC1)CC(=O)N[C@H](C(=O)OC)Cc1ccc(cc1)C#Cc1ccccc1	4841_1m48_pH7
+NC(=N)N1C[C@H](CCC1)CC(=O)N[C@H](C(=O)OC)Cc1ccc(cc1)C#Cc1ccccc1	4842_1m48_non-chg
+C(=N\c1ccc(C#N)cc1)(/NCC(=O)O)\NC(c1ccccc1)c1ccccc1	5056_2cgr_non-chg
+C(=N\c1ccc(C#N)cc1)(/NCC(=O)[O-])\NC(c1ccccc1)c1ccccc1	5057_2cgr_orig
